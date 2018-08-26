@@ -1,0 +1,2 @@
+print words as below:
+1 2 4 8 Ct.
