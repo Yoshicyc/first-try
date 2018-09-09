@@ -32,6 +32,7 @@ public class myLearnedClase {
 //		(10)Ctril+Shift+O 
 //		说明:自动引入所需要得包
 		
+//3		code1
 		
 
 	}
