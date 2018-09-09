@@ -33,7 +33,8 @@ public class myLearnedClase {
 //		说明:自动引入所需要得包
 		
 //3		code1
-		
+		System.out.println("test");
+		System.out.println("test2");
 
 	}
 
